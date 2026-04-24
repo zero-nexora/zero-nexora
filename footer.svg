@@ -1,0 +1,82 @@
+<svg width="680" height="110" viewBox="0 0 680 110" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background: hsl(270 30% 6%) -->
+  <rect width="680" height="110" rx="12" fill="#0f0b1a"/>
+
+  <!-- Glow blobs -->
+  <ellipse cx="340" cy="55" rx="260" ry="60" fill="#6d28d9" opacity="0.07"/>
+  <ellipse cx="100" cy="90" rx="80" ry="45" fill="#6d28d9" opacity="0.06"/>
+  <ellipse cx="580" cy="25" rx="80" ry="40" fill="#6d28d9" opacity="0.06"/>
+
+  <!-- Dot grid row 1 -->
+  <circle cx="20"  cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="60"  cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="100" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="140" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="180" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="220" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="260" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="300" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="340" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="380" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="420" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="460" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="500" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="540" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="580" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="620" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="660" cy="18" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <!-- row 2 -->
+  <circle cx="20"  cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="60"  cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="100" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="140" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="180" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="220" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="260" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="300" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="340" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="380" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="420" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="460" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="500" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="540" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="580" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="620" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <circle cx="660" cy="55" r="0.85" fill="#a78bfa" opacity="0.14"/>
+  <!-- row 3 -->
+  <circle cx="20"  cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="60"  cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="100" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="140" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="180" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="220" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="260" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="300" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="340" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="380" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="420" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="460" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="500" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="540" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="580" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="620" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+  <circle cx="660" cy="92" r="0.85" fill="#a78bfa" opacity="0.25"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="108" width="680" height="2" rx="1" fill="#a78bfa" opacity="0.85"/>
+
+  <!-- Corner brackets -->
+  <path d="M16 24 L16 10 L30 10" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M664 24 L664 10 L650 10" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M16 86 L16 100 L30 100" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  <path d="M664 86 L664 100 L650 100" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+
+  <!-- Star -->
+  <text x="340" y="47" text-anchor="middle" font-family="monospace" font-size="14" fill="#c4b5fd">&#9733;</text>
+
+  <!-- Main text -->
+  <text x="340" y="66" text-anchor="middle" font-family="monospace" font-size="10" fill="#7a6e96" letter-spacing="2">IF YOU FIND MY WORK INTERESTING</text>
+  <text x="340" y="86" text-anchor="middle" font-family="monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#ede9fe">CONSIDER GIVING A STAR</text>
+
+</svg>

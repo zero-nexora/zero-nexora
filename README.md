@@ -1,29 +1,7 @@
 <!-- HEADER BANNER -->
 <div align="center">
 
-<div align="center">
-<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="160" rx="12" fill="#0d1117"/>
-  <!-- dot grid -->
-  <pattern id="g" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-    <circle cx="20" cy="20" r="0.8" fill="#58a6ff" opacity="0.25"/>
-  </pattern>
-  <rect width="680" height="160" fill="url(#g)" rx="12"/>
-  <!-- accent top -->
-  <rect width="680" height="2" rx="1" fill="#58a6ff" opacity="0.7"/>
-  <!-- corner brackets -->
-  <path d="M16 22 L16 10 L28 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M664 22 L664 10 L652 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M16 138 L16 150 L28 150" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M664 138 L664 150 L652 150" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <!-- name -->
-  <text x="340" y="88" text-anchor="middle" font-family="'SF Mono',monospace" font-size="40" font-weight="700" letter-spacing="4" fill="#e6edf3">NguyenHien</text>
-  <!-- role -->
-  <text x="340" y="116" text-anchor="middle" font-family="'SF Mono',monospace" font-size="12" letter-spacing="6" fill="#58a6ff" opacity="0.85">FULL-STACK DEVELOPER</text>
-  <!-- tagline -->
-  <text x="340" y="138" text-anchor="middle" font-family="'SF Mono',monospace" font-size="10" fill="#8b949e" letter-spacing="1">TypeScript · Java · React · Spring Boot</text>
-</svg>
-</div>
+<img src="https://raw.githubusercontent.com/zero-nexora/zero-nexora/main/header.svg" width="100%" alt="NguyenHien — Full-Stack Developer"/>
 
 </div>
 
@@ -42,10 +20,10 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zero-nexora)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zero-nexora)
 
 </td>
 <td align="center" width="45%">
@@ -67,7 +45,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 </div>
 
@@ -77,19 +55,19 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me</h2>
 
 ```yaml
-name: "NguyenHien"
-role: "Full-Stack Developer"
-location: "Vietnam 🇻🇳"
+name:          "NguyenHien"
+role:          "Full-Stack Developer"
+location:      "Vietnam 🇻🇳"
 current_focus: "Building production-grade web applications"
-learning: ["System Design", "Cloud Architecture", "Advanced Spring Boot"]
-fun_fact: "I turn caffeine into code ☕→💻"
+learning:      ["System Design", "Cloud Architecture", "Advanced Spring Boot"]
+fun_fact:      "I turn caffeine into code ☕→💻"
 ```
 
 > 🎯 I'm a passionate full-stack developer focused on building **production-grade web applications** — from hotel booking platforms and social media networks to real-time collaborative tools. I work across the entire stack: crafting responsive UIs with **React/Next.js**, designing **RESTful APIs** and **tRPC** backends, managing relational databases, integrating third-party services (**Stripe, Cloudinary, Google Gemini AI**), and building robust backend services with **Java Spring Boot**.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 <br/>
 
@@ -112,7 +90,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </div>
 
 **Libraries & Tools:**
-
 - 🧩 **UI:** shadcn/ui · Radix UI · Material UI · Framer Motion
 - 📦 **State:** Zustand · TanStack Query
 - 📝 **Forms:** React Hook Form + Zod
@@ -134,7 +111,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </div>
 
 **Architecture & Patterns:**
-
 - 🔐 **Auth:** JWT · OAuth 2.0 · Clerk · better-auth · NextAuth
 - 📡 **API:** REST · tRPC · Server Actions
 - ⏱️ **Jobs:** Upstash QStash cron
@@ -186,7 +162,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 <br/>
 
@@ -340,7 +316,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <td valign="top" width="33%">
 
 **🛒 E-Commerce Multi-Vendor API**
-
 - Spring Security + **JWT authentication**
 - Spring Data **JPA** + MySQL
 - **Stripe** payment integration
@@ -351,7 +326,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <td valign="top" width="33%">
 
 **🔐 Identity Service**
-
 - OAuth2 Resource Server
 - **Dockerized** deployment
 - **MapStruct** DTO mapping
@@ -363,7 +337,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <td valign="top" width="33%">
 
 **🏪 Dream Shops API**
-
 - Full e-commerce REST API
 - Spring Data JPA + MySQL
 - Spring Security + JWT
@@ -383,7 +356,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 <br/>
 
@@ -392,23 +365,23 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <div align="center">
 
-| 🏷️ Area                       | 💪 Demonstrated In                                                                         |
-| :---------------------------- | :----------------------------------------------------------------------------------------- |
-| **Full-Stack Architecture**   | Every major project includes both frontend & backend with well-structured codebases        |
-| **Payment Integration**       | Stripe workflows with webhooks, refunds, and subscription billing                          |
-| **Real-Time Systems**         | Socket.IO (Vire), Liveblocks (NoteDeck)                                                    |
-| **Authentication & Security** | JWT with silent refresh, OAuth 2.0, better-auth, NextAuth, Spring Security                 |
-| **AI Integration**            | Google Gemini API — streaming chat, AI-powered caption generation                          |
-| **Database Design**           | Complex relational schemas with state machines, keyset pagination, race-condition handling |
-| **API Design**                | tRPC, REST, Server Actions — type-safe end-to-end APIs with Zod validation                 |
-| **Java Backend**              | Spring Boot REST APIs with JPA, Security, Docker, testing (JaCoCo, Testcontainers)         |
-| **Developer Experience**      | Consistent project structure, TypeScript everywhere, ESLint, database seeding              |
+| 🏷️ Area | 💪 Demonstrated In |
+|:---|:---|
+| **Full-Stack Architecture** | Every major project includes both frontend & backend with well-structured codebases |
+| **Payment Integration** | Stripe workflows with webhooks, refunds, and subscription billing |
+| **Real-Time Systems** | Socket.IO (Vire), Liveblocks (NoteDeck) |
+| **Authentication & Security** | JWT with silent refresh, OAuth 2.0, better-auth, NextAuth, Spring Security |
+| **AI Integration** | Google Gemini API — streaming chat, AI-powered caption generation |
+| **Database Design** | Complex relational schemas with state machines, keyset pagination, race-condition handling |
+| **API Design** | tRPC, REST, Server Actions — type-safe end-to-end APIs with Zod validation |
+| **Java Backend** | Spring Boot REST APIs with JPA, Security, Docker, testing (JaCoCo, Testcontainers) |
+| **Developer Experience** | Consistent project structure, TypeScript everywhere, ESLint, database seeding |
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 <br/>
 
@@ -417,12 +390,12 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zero-nexora&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-nexora&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zero-nexora&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-nexora&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=f78166&currStreakLabel=a78bfa" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-nexora&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-nexora&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
@@ -441,7 +414,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0:3b1a6b,100:2d1357&height=2" width="100%" />
 
 <br/>
 
@@ -450,9 +423,9 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-your@email.com-EA4335?style=for-the-badge)](mailto:nguyenhien050525@email.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/profile)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://portfolio.com)
+[![Email](https://img.shields.io/badge/📧_Email-your@email.com-7c3aed?style=for-the-badge)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-7c3aed?style=for-the-badge)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge)](https://your-portfolio.com)
 
 </div>
 
@@ -461,29 +434,10 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <!-- FOOTER -->
 <div align="center">
 
-```diff
-+ ⭐ If you find my work interesting, consider giving my repos a star!
-```
-
-<img src="https://komarev.com/ghpvc/?username=zero-nexora&style=flat-square&color=6C3CE1&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=zero-nexora&style=flat-square&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<div align="center">
-<svg width="100%" viewBox="0 0 680 100" xmlns="http://www.w3.org/2000/svg">
-  <rect width="680" height="100" rx="12" fill="#0d1117"/>
-  <pattern id="g2" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-    <circle cx="20" cy="20" r="0.8" fill="#58a6ff" opacity="0.25"/>
-  </pattern>
-  <rect width="680" height="100" fill="url(#g2)" rx="12"/>
-  <rect y="98" width="680" height="2" rx="1" fill="#58a6ff" opacity="0.7"/>
-  <path d="M16 22 L16 10 L28 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M664 22 L664 10 L652 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M16 78 L16 90 L28 90" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <path d="M664 78 L664 90 L652 90" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
-  <text x="340" y="44" text-anchor="middle" font-family="'SF Mono',monospace" font-size="11" fill="#8b949e" letter-spacing="2">⭐ IF YOU FIND MY WORK INTERESTING</text>
-  <text x="340" y="68" text-anchor="middle" font-family="'SF Mono',monospace" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="3">CONSIDER GIVING A STAR</text>
-</svg>
-</div>
+<img src="https://raw.githubusercontent.com/zero-nexora/zero-nexora/main/footer.svg" width="100%" alt="Footer"/>
 
 </div>
