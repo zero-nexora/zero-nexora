@@ -1,11 +1,40 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
+<div align="center">
+
+<div align="center">
+<svg width="100%" viewBox="0 0 680 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="160" rx="12" fill="#0d1117"/>
+  <!-- dot grid -->
+  <pattern id="g" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <circle cx="20" cy="20" r="0.8" fill="#58a6ff" opacity="0.25"/>
+  </pattern>
+  <rect width="680" height="160" fill="url(#g)" rx="12"/>
+  <!-- accent top -->
+  <rect width="680" height="2" rx="1" fill="#58a6ff" opacity="0.7"/>
+  <!-- corner brackets -->
+  <path d="M16 22 L16 10 L28 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M664 22 L664 10 L652 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M16 138 L16 150 L28 150" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M664 138 L664 150 L652 150" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <!-- name -->
+  <text x="340" y="88" text-anchor="middle" font-family="'SF Mono',monospace" font-size="40" font-weight="700" letter-spacing="4" fill="#e6edf3">NguyenHien</text>
+  <!-- role -->
+  <text x="340" y="116" text-anchor="middle" font-family="'SF Mono',monospace" font-size="12" letter-spacing="6" fill="#58a6ff" opacity="0.85">FULL-STACK DEVELOPER</text>
+  <!-- tagline -->
+  <text x="340" y="138" text-anchor="middle" font-family="'SF Mono',monospace" font-size="10" fill="#8b949e" letter-spacing="1">TypeScript · Java · React · Spring Boot</text>
+</svg>
+</div>
+
+</div>
+
+<!-- INTRO TABLE -->
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="55%">
+<td align="left" width="55%">
 
-<h1>Hey there 👋, I'm <a href="https://github.com/zero-nexora">NguyenHien</a></h1>
+<h2>Hey there 👋, I'm <a href="https://github.com/zero-nexora">NguyenHien</a></h2>
 
 <h3>🚀 Full-Stack Developer</h3>
 
@@ -21,20 +50,31 @@
 </td>
 <td align="center" width="45%">
 
-<img src="./dev-setup.png" alt="Developer Setup" width="350"/>
+<img src="./dev-setup.png" alt="Developer Setup" width="320"/>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <!-- SKILL ICONS -->
+<div align="center">
+
 <br/>
+
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,java,spring,postgres,mongodb,mysql,prisma,docker,git,vercel,tailwind&perline=8" alt="Tech Stack" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
 
 </div>
 
+<br/>
+
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me</h2>
 
 ```yaml
 name: "NguyenHien"
@@ -49,14 +89,18 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+
+<br/>
+
 <!-- TECH STACK -->
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 🎨 Frontend
+<h3 align="center">🎨 Frontend</h3>
 <div align="center">
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -68,6 +112,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </div>
 
 **Libraries & Tools:**
+
 - 🧩 **UI:** shadcn/ui · Radix UI · Material UI · Framer Motion
 - 📦 **State:** Zustand · TanStack Query
 - 📝 **Forms:** React Hook Form + Zod
@@ -77,7 +122,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </td>
 <td valign="top" width="50%">
 
-### ⚙️ Backend
+<h3 align="center">⚙️ Backend</h3>
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js_22-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -89,6 +134,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </div>
 
 **Architecture & Patterns:**
+
 - 🔐 **Auth:** JWT · OAuth 2.0 · Clerk · better-auth · NextAuth
 - 📡 **API:** REST · tRPC · Server Actions
 - ⏱️ **Jobs:** Upstash QStash cron
@@ -100,7 +146,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <tr>
 <td valign="top" width="50%">
 
-### 🗄️ Database & ORM
+<h3 align="center">🗄️ Database & ORM</h3>
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -118,7 +164,7 @@ fun_fact: "I turn caffeine into code ☕→💻"
 </td>
 <td valign="top" width="50%">
 
-### 🔧 DevOps & Services
+<h3 align="center">🔧 DevOps & Services</h3>
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -140,14 +186,16 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+
+<br/>
+
 <!-- FEATURED PROJECTS -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;Featured Projects
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Featured Projects</h2>
 
 <!-- STAYWISE -->
 <details open>
-<summary>
-  <h3>🏨 Staywise — Hotel Booking Platform</h3>
-</summary>
+<summary><h3>🏨 Staywise — Hotel Booking Platform</h3></summary>
 
 <br/>
 
@@ -165,10 +213,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 > Full-stack hotel booking system with AI concierge, real-time map search, QR check-in, and automated email workflows.
 
-<table>
-<tr>
-<td>
-
 **✨ Key Features**
 
 - 🔍 Search hotels by city/dates/guests — **infinite scroll** + 3 view modes (list, grid, interactive map)
@@ -180,10 +224,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 - 🔒 Race-condition-safe room locking: `AVAILABLE → LOCKED → BOOKED` state machine
 - 💰 Tiered refund policy with partial Stripe refund support
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 **Full Stack:** `Next.js 16` · `tRPC v11` · `Prisma 7` · `PostgreSQL` · `Stripe` · `Google Gemini` · `Upstash QStash/Redis` · `React Email` · `Resend` · `Leaflet` · `better-auth` · `Zustand` · `Framer Motion`
@@ -192,13 +232,11 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 </details>
 
----
+<br/>
 
 <!-- VIRE -->
 <details open>
-<summary>
-  <h3>💬 Vire — Social Media Platform</h3>
-</summary>
+<summary><h3>💬 Vire — Social Media Platform</h3></summary>
 
 <br/>
 
@@ -215,10 +253,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 > Feature-rich social media app with real-time interactions, stories, AI captions, and a complete friend/follow system.
 
-<table>
-<tr>
-<td>
-
 **✨ Key Features**
 
 - 📜 Infinite-scroll feed with cursor-based pagination & real-time "new posts available" banner
@@ -230,10 +264,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 - 🔔 Real-time notifications, typing indicators, online presence via **Socket.IO**
 - 🔐 JWT auth with **silent token refresh** — access token in memory, refresh token in HTTP-only cookie
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 **Frontend:** `React 19` · `Vite 8` · `TailwindCSS v4` · `shadcn/ui` · `TanStack Query` · `Zustand` · `Socket.IO Client` · `Vidstack` · `Quill`
@@ -244,13 +274,11 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 </details>
 
----
+<br/>
 
 <!-- NOTEDECK -->
 <details open>
-<summary>
-  <h3>📝 NoteDeck — Collaborative Project Management</h3>
-</summary>
+<summary><h3>📝 NoteDeck — Collaborative Project Management</h3></summary>
 
 <br/>
 
@@ -267,10 +295,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 > Real-time collaborative note-taking and project management tool with kanban boards, live sync, and Stripe billing.
 
-<table>
-<tr>
-<td>
-
 **✨ Key Features**
 
 - 🤝 **Real-time collaboration** powered by Liveblocks
@@ -283,10 +307,6 @@ fun_fact: "I turn caffeine into code ☕→💻"
 - 🔔 **Push notifications** (web-push)
 - 🔍 **Elasticsearch**-powered search
 
-</td>
-</tr>
-</table>
-
 <div align="center">
 
 **Full Stack:** `Next.js 16` · `Drizzle ORM` · `PostgreSQL` · `Liveblocks` · `Stripe` · `NextAuth` · `UploadThing` · `dnd-kit` · `Elasticsearch` · `Recharts` · `web-push`
@@ -295,13 +315,11 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 </details>
 
----
+<br/>
 
 <!-- JAVA SPRING BOOT -->
 <details open>
-<summary>
-  <h3>☕ Java Spring Boot — Backend Services</h3>
-</summary>
+<summary><h3>☕ Java Spring Boot — Backend Services</h3></summary>
 
 <br/>
 
@@ -319,16 +337,21 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <table>
 <tr>
-<td>
+<td valign="top" width="33%">
 
 **🛒 E-Commerce Multi-Vendor API**
+
 - Spring Security + **JWT authentication**
 - Spring Data **JPA** + MySQL
 - **Stripe** payment integration
 - Email service (Spring Mail)
 - Bean Validation
 
+</td>
+<td valign="top" width="33%">
+
 **🔐 Identity Service**
+
 - OAuth2 Resource Server
 - **Dockerized** deployment
 - **MapStruct** DTO mapping
@@ -336,7 +359,11 @@ fun_fact: "I turn caffeine into code ☕→💻"
 - **Testcontainers** integration testing
 - Spotless code formatting
 
+</td>
+<td valign="top" width="33%">
+
 **🏪 Dream Shops API**
+
 - Full e-commerce REST API
 - Spring Data JPA + MySQL
 - Spring Security + JWT
@@ -356,38 +383,44 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+
+<br/>
+
 <!-- HIGHLIGHTS -->
-## 💡 Highlights & Strengths
+<h2>💡 Highlights & Strengths</h2>
 
 <div align="center">
 
-| 🏷️ Area | 💪 Demonstrated In |
-|:---|:---|
-| **Full-Stack Architecture** | Every major project includes both frontend & backend with well-structured codebases |
-| **Payment Integration** | Stripe workflows with webhooks, refunds, and subscription billing |
-| **Real-Time Systems** | Socket.IO (Vire), Liveblocks (NoteDeck) |
-| **Authentication & Security** | JWT with silent refresh, OAuth 2.0, better-auth, NextAuth, Spring Security |
-| **AI Integration** | Google Gemini API — streaming chat, AI-powered caption generation |
-| **Database Design** | Complex relational schemas with state machines, keyset pagination, race-condition handling |
-| **API Design** | tRPC, REST, Server Actions — type-safe end-to-end APIs with Zod validation |
-| **Java Backend** | Spring Boot REST APIs with JPA, Security, Docker, testing (JaCoCo, Testcontainers) |
-| **Developer Experience** | Consistent project structure, TypeScript everywhere, ESLint, database seeding |
+| 🏷️ Area                       | 💪 Demonstrated In                                                                         |
+| :---------------------------- | :----------------------------------------------------------------------------------------- |
+| **Full-Stack Architecture**   | Every major project includes both frontend & backend with well-structured codebases        |
+| **Payment Integration**       | Stripe workflows with webhooks, refunds, and subscription billing                          |
+| **Real-Time Systems**         | Socket.IO (Vire), Liveblocks (NoteDeck)                                                    |
+| **Authentication & Security** | JWT with silent refresh, OAuth 2.0, better-auth, NextAuth, Spring Security                 |
+| **AI Integration**            | Google Gemini API — streaming chat, AI-powered caption generation                          |
+| **Database Design**           | Complex relational schemas with state machines, keyset pagination, race-condition handling |
+| **API Design**                | tRPC, REST, Server Actions — type-safe end-to-end APIs with Zod validation                 |
+| **Java Backend**              | Spring Boot REST APIs with JPA, Security, Docker, testing (JaCoCo, Testcontainers)         |
+| **Developer Experience**      | Consistent project structure, TypeScript everywhere, ESLint, database seeding              |
 
 </div>
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+
+<br/>
+
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zero-nexora&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zero-nexora&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=f78166&currStreakLabel=58a6ff" />
 
-</div>
-
-<div align="center">
+<br/><br/>
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero-nexora&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
 
@@ -408,14 +441,18 @@ fun_fact: "I turn caffeine into code ☕→💻"
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2" width="100%" />
+
+<br/>
+
 <!-- CONTACT -->
-## 📫 Get In Touch
+<h2>📫 Get In Touch</h2>
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-your@email.com-EA4335?style=for-the-badge)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/📧_Email-your@email.com-EA4335?style=for-the-badge)](mailto:nguyenhien050525@email.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://linkedin.com/in/profile)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge)](https://portfolio.com)
 
 </div>
 
@@ -424,18 +461,29 @@ fun_fact: "I turn caffeine into code ☕→💻"
 <!-- FOOTER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20,24&height=2&section=footer" />
-
-<br/>
-
 ```diff
 + ⭐ If you find my work interesting, consider giving my repos a star!
 ```
 
 <img src="https://komarev.com/ghpvc/?username=zero-nexora&style=flat-square&color=6C3CE1&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6C3CE1,100:00D2FF&height=30&section=footer&text=Made%20with%20☕%20and%20💜&fontSize=12&fontColor=ffffff" />
+<div align="center">
+<svg width="100%" viewBox="0 0 680 100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="100" rx="12" fill="#0d1117"/>
+  <pattern id="g2" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <circle cx="20" cy="20" r="0.8" fill="#58a6ff" opacity="0.25"/>
+  </pattern>
+  <rect width="680" height="100" fill="url(#g2)" rx="12"/>
+  <rect y="98" width="680" height="2" rx="1" fill="#58a6ff" opacity="0.7"/>
+  <path d="M16 22 L16 10 L28 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M664 22 L664 10 L652 10" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M16 78 L16 90 L28 90" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <path d="M664 78 L664 90 L652 90" stroke="#58a6ff" stroke-opacity="0.5" stroke-width="1.5" fill="none"/>
+  <text x="340" y="44" text-anchor="middle" font-family="'SF Mono',monospace" font-size="11" fill="#8b949e" letter-spacing="2">⭐ IF YOU FIND MY WORK INTERESTING</text>
+  <text x="340" y="68" text-anchor="middle" font-family="'SF Mono',monospace" font-size="12" font-weight="600" fill="#e6edf3" letter-spacing="3">CONSIDER GIVING A STAR</text>
+</svg>
+</div>
 
 </div>
