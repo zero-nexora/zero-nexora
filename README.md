@@ -22,8 +22,8 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zero-nexora)
+[![Gmail](https://img.shields.io/badge/Gmail-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyenhien050525@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nguyenhiennnnn)
 
 </td>
 <td align="center" width="45%">
@@ -413,7 +413,7 @@ fun_fact:      "I turn caffeine into code ☕→💻"
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-your@email.com-7c3aed?style=for-the-badge)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/📧_Email-nguyenhien050525@email.com-7c3aed?style=for-the-badge)](mailto:nguyenhien050525@email.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-7c3aed?style=for-the-badge)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-7c3aed?style=for-the-badge)](https://your-portfolio.com)
 
