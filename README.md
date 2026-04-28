@@ -41,7 +41,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,java,spring,postgres,mongodb,mysql,prisma,docker,git,vercel,tailwind&perline=8" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,java,spring,postgres,mongodb,mysql,prisma,docker,git,vercel,tailwind&perline=5" alt="Tech Stack" />
 
 <br/><br/>
 
@@ -309,21 +309,11 @@ fun_fact:      "I turn caffeine into code ☕→💻"
 
 </div>
 
-> Backend RESTful API services for e-commerce and identity management built with Spring Boot.
+> Backend RESTful API services built with Spring Boot.
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-**🛒 E-Commerce Multi-Vendor API**
-- Spring Security + **JWT authentication**
-- Spring Data **JPA** + MySQL
-- **Stripe** payment integration
-- Email service (Spring Mail)
-- Bean Validation
-
-</td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 **🔐 Identity Service**
 - OAuth2 Resource Server
@@ -334,7 +324,7 @@ fun_fact:      "I turn caffeine into code ☕→💻"
 - Spotless code formatting
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="50%">
 
 **🏪 Dream Shops API**
 - Full e-commerce REST API
